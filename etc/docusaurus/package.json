@@ -1,5 +1,5 @@
 {
-  "name": "know",
+  "name": "know-dev",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -16,11 +16,14 @@
   "dependencies": {
     "@docusaurus/core": "3.3.2",
     "@docusaurus/preset-classic": "3.3.2",
+    "@grnet/docusaurus-terminology": "^2.0.0-rc.1",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
+    "docusaurus-remark-plugin-tab-blocks": "^3.1.0",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "remark-deflist": "^1.0.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.3.2",
