@@ -74,14 +74,20 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'overview',
-            label: 'Overview',
+            sidebarId: 'about',
+            label: 'About',
             position: 'left',
           },
           {
             type: 'docSidebar',
-            sidebarId: 'classes',
-            label: 'Classes',
+            sidebarId: 'ontology',
+            label: 'Ontology',
+            position: 'left',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'download',
+            label: 'Downloads',
             position: 'left',
           },
           {
@@ -104,12 +110,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Overview',
+                label: 'About',
                 to: '/',
               },
               {
-                label: 'Classes',
-                to: '/classes',
+                label: 'Ontology',
+                to: '/ontology',
+              },
+              {
+                label: 'Downloads',
+                to: '/download',
               },
               {
                 label: 'SDKs',

@@ -2,14 +2,37 @@
 
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
-  overview: [
+  about: [
     'index',
     'features',
+    'bibliography',
     'glossary',
   ],
-  classes: [
-    'Person',
-    'Thing',
+  ontology: [
+    {
+      type: 'category',
+      label: 'Classes',
+      collapsible: false,
+      collapsed: false,
+      link: {
+        type: 'generated-index',
+        title: 'Ontology',
+        description: ' ',
+        slug: '/ontology',
+        keywords: [],
+      },
+      items: [
+        'Event',
+        'Group',
+        'Person',
+        'Place',
+        'Organization',
+        'Thing',
+      ],
+    },
+  ],
+  download: [
+    'download',
   ],
   sdk: [
     {
