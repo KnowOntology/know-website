@@ -12,7 +12,7 @@ import tabBlocks from "docusaurus-remark-plugin-tab-blocks";
 const config = {
   title: 'KNOW',
   tagline: 'An everyday, commonsense ontology',
-  favicon: 'img/favicon.ico',
+  favicon: 'assets/img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://know.dev',
@@ -64,12 +64,12 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/docusaurus-social-card.jpg', // TODO
+      image: 'assets/img/docusaurus-social-card.jpg', // TODO
       navbar: {
         title: 'KNOW',
         logo: {
           alt: 'KNOW Logo', // TODO
-          src: 'img/logo.svg',
+          src: 'assets/img/logo.svg',
         },
         items: [
           {
