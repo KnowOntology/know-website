@@ -44,8 +44,9 @@ const config = {
         docs: {
           routeBasePath: "/", // Serve the docs at the site's root
           sidebarPath: "./sidebars.js",
-          editUrl:
-            "https://github.com/KnowOntology/know-website/tree/master/doc/",
+          editUrl: ({ locale, versionDocsDirPath, docPath }) => {
+            return `https://github.com/KnowOntology/know-website/edit/master/doc/${docPath}`;
+          },
           remarkPlugins: [
             remarkDefList,
             [
