@@ -75,8 +75,8 @@ const config = {
       navbar: {
         title: "KNOW",
         logo: {
-          alt: "KNOW Logo", // TODO
-          src: "assets/img/logo.svg",
+          alt: "KNOW Logo",
+          src: "assets/img/logo.jpeg",
         },
         items: [
           {
