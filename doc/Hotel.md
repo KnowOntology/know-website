@@ -1,5 +1,6 @@
 # 🏨 Hotel
 
 :::note
-`know:Hotel` (https://know.dev/Hotel)
+https://know.dev/Hotel
+(`know:Hotel`)
 :::

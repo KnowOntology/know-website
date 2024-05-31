@@ -1,5 +1,6 @@
 # 🤝 Meeting
 
 :::note
-`know:Meeting` (https://know.dev/Meeting)
+https://know.dev/Meeting
+(`know:Meeting`)
 :::

@@ -1,5 +1,6 @@
 # 🍽️ Restaurant
 
 :::note
-`know:Restaurant` (https://know.dev/Restaurant)
+https://know.dev/Restaurant
+(`know:Restaurant`)
 :::

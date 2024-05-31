@@ -1,5 +1,6 @@
 # 📄 File
 
 :::note
-`know:File` (https://know.dev/File)
+https://know.dev/File
+(`know:File`)
 :::

@@ -1,5 +1,6 @@
 # 📅 Event
 
 :::note
-`know:Event` (https://know.dev/Event)
+https://know.dev/Event
+(`know:Event`)
 :::

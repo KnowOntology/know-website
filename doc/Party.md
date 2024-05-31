@@ -1,5 +1,6 @@
 # 🎉 Party
 
 :::note
-`know:Party` (https://know.dev/Party)
+https://know.dev/Party
+(`know:Party`)
 :::

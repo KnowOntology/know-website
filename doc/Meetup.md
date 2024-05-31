@@ -1,5 +1,6 @@
 # 🍻 Meetup
 
 :::note
-`know:Meetup` (https://know.dev/Meetup)
+https://know.dev/Meetup
+(`know:Meetup`)
 :::

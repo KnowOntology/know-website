@@ -1,5 +1,6 @@
-# 🎂 Birthday Party
+# 🎉 Birthday Party
 
 :::note
-`know:BirthdayParty` (https://know.dev/BirthdayParty)
+https://know.dev/BirthdayParty
+(`know:BirthdayParty`)
 :::

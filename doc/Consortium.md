@@ -1,5 +1,6 @@
 # 🌐 Consortium
 
 :::note
-`know:Consortium` (https://know.dev/Consortium)
+https://know.dev/Consortium
+(`know:Consortium`)
 :::

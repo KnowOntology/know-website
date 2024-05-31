@@ -1,5 +1,6 @@
 # 👩‍🍼 Birth
 
 :::note
-`know:Birth` (https://know.dev/Birth)
+https://know.dev/Birth
+(`know:Birth`)
 :::

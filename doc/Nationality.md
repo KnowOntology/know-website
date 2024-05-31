@@ -1,5 +1,6 @@
 # 🪪 Nationality
 
 :::note
-`know:Nationality` (https://know.dev/Nationality)
+https://know.dev/Nationality
+(`know:Nationality`)
 :::

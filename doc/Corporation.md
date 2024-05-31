@@ -1,5 +1,6 @@
 # 📃 Corporation
 
 :::note
-`know:Corporation` (https://know.dev/Corporation)
+https://know.dev/Corporation
+(`know:Corporation`)
 :::

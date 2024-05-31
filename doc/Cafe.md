@@ -1,5 +1,6 @@
 # ☕ Cafe
 
 :::note
-`know:Cafe` (https://know.dev/Cafe)
+https://know.dev/Cafe
+(`know:Cafe`)
 :::

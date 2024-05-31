@@ -1,5 +1,6 @@
 # 🛕 Hindu Temple
 
 :::note
-`know:HinduTemple` (https://know.dev/HinduTemple)
+https://know.dev/HinduTemple
+(`know:HinduTemple`)
 :::

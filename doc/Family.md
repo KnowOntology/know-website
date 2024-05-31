@@ -1,5 +1,6 @@
 # 👪 Family
 
 :::note
-`know:Family` (https://know.dev/Family)
+https://know.dev/Family
+(`know:Family`)
 :::

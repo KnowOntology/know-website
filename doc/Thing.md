@@ -1,5 +1,6 @@
 # ∃ Thing
 
 :::note
-`know:Thing` (https://know.dev/Thing)
+https://know.dev/Thing
+(`know:Thing`)
 :::

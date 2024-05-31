@@ -1,5 +1,6 @@
 # ⛪ Congregation
 
 :::note
-`know:Congregation` (https://know.dev/Congregation)
+https://know.dev/Congregation
+(`know:Congregation`)
 :::

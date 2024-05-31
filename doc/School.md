@@ -1,5 +1,6 @@
 # 🏫 School
 
 :::note
-`know:School` (https://know.dev/School)
+https://know.dev/School
+(`know:School`)
 :::

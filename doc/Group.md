@@ -1,5 +1,6 @@
 # 🧑‍🤝‍🧑 Group
 
 :::note
-`know:Group` (https://know.dev/Group)
+https://know.dev/Group
+(`know:Group`)
 :::

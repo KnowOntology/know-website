@@ -1,5 +1,6 @@
 # 🚣 Activity
 
 :::note
-`know:Activity` (https://know.dev/Activity)
+https://know.dev/Activity
+(`know:Activity`)
 :::

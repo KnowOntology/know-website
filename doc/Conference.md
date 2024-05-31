@@ -1,5 +1,6 @@
 # 📛 Conference
 
 :::note
-`know:Conference` (https://know.dev/Conference)
+https://know.dev/Conference
+(`know:Conference`)
 :::

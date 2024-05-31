@@ -1,7 +1,8 @@
 # 🧑 Person
 
 :::note
-`know:Person` (https://know.dev/Person)
+https://know.dev/Person
+(`know:Person`)
 :::
 
 ## Properties

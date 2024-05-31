@@ -1,5 +1,6 @@
 # 📍 Landmark
 
 :::note
-`know:Landmark` (https://know.dev/Landmark)
+https://know.dev/Landmark
+(`know:Landmark`)
 :::

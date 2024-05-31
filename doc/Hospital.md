@@ -1,5 +1,6 @@
 # 🏥 Hospital
 
 :::note
-`know:Hospital` (https://know.dev/Hospital)
+https://know.dev/Hospital
+(`know:Hospital`)
 :::

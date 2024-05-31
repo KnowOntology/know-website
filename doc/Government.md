@@ -1,5 +1,6 @@
 # 🎩 Government
 
 :::note
-`know:Government` (https://know.dev/Government)
+https://know.dev/Government
+(`know:Government`)
 :::

@@ -1,5 +1,6 @@
 # 🏘️ Community
 
 :::note
-`know:Community` (https://know.dev/Community)
+https://know.dev/Community
+(`know:Community`)
 :::

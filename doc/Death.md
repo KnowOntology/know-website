@@ -1,5 +1,6 @@
 # ⚰️ Death
 
 :::note
-`know:Death` (https://know.dev/Death)
+https://know.dev/Death
+(`know:Death`)
 :::

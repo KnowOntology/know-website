@@ -1,5 +1,6 @@
 # 🛐 Temple
 
 :::note
-`know:Temple` (https://know.dev/Temple)
+https://know.dev/Temple
+(`know:Temple`)
 :::

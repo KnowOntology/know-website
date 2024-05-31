@@ -1,5 +1,6 @@
 # 🍺 Pub
 
 :::note
-`know:Pub` (https://know.dev/Pub)
+https://know.dev/Pub
+(`know:Pub`)
 :::

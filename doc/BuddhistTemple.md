@@ -1,5 +1,6 @@
 # ☸️ Buddhist Temple
 
 :::note
-`know:BuddhistTemple` (https://know.dev/BuddhistTemple)
+https://know.dev/BuddhistTemple
+(`know:BuddhistTemple`)
 :::

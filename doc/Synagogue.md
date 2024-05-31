@@ -1,5 +1,6 @@
 # 🕍 Synagogue
 
 :::note
-`know:Synagogue` (https://know.dev/Synagogue)
+https://know.dev/Synagogue
+(`know:Synagogue`)
 :::

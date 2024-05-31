@@ -1,5 +1,6 @@
 # 🏪 Venue
 
 :::note
-`know:Venue` (https://know.dev/Venue)
+https://know.dev/Venue
+(`know:Venue`)
 :::

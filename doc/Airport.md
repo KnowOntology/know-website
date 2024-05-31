@@ -1,5 +1,6 @@
 # 🛫 Airport
 
 :::note
-`know:Airport` (https://know.dev/Airport)
+https://know.dev/Airport
+(`know:Airport`)
 :::

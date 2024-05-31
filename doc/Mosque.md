@@ -1,5 +1,6 @@
 # 🕌 Mosque
 
 :::note
-`know:Mosque` (https://know.dev/Mosque)
+https://know.dev/Mosque
+(`know:Mosque`)
 :::

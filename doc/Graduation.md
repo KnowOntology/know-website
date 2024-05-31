@@ -1,5 +1,6 @@
 # 🎓 Graduation
 
 :::note
-`know:Graduation` (https://know.dev/Graduation)
+https://know.dev/Graduation
+(`know:Graduation`)
 :::

@@ -1,5 +1,6 @@
 # 🏖️ Holiday
 
 :::note
-`know:Holiday` (https://know.dev/Holiday)
+https://know.dev/Holiday
+(`know:Holiday`)
 :::

@@ -1,5 +1,6 @@
 # 💒 Wedding
 
 :::note
-`know:Wedding` (https://know.dev/Wedding)
+https://know.dev/Wedding
+(`know:Wedding`)
 :::
