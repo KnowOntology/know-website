@@ -2,7 +2,7 @@
 
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
-  about: ["index", "features", "bibliography", "glossary"],
+  about: ["index" /*"features", "bibliography", "glossary"*/],
   classes: [
     {
       type: "category",
@@ -126,22 +126,7 @@ const sidebars = {
       ],
     },
   ],
-  downloads: [
-    {
-      type: "category",
-      label: "Downloads",
-      collapsible: false,
-      collapsed: false,
-      link: {
-        type: "generated-index",
-        title: "Downloads",
-        description: " ",
-        slug: "/downloads",
-        keywords: [],
-      },
-      items: ["wife"],
-    },
-  ],
+  downloads: ["downloads"],
   sdk: [
     {
       type: "category",
