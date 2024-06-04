@@ -189,6 +189,23 @@ const config = {
         glossaryFilepath: "./docs/glossary.md",
       },
     ],
+    () => ({
+      name: "inject-tags",
+      injectHtmlTags() {
+        return {
+          headTags: [
+            {
+              tagName: "script",
+              attributes: {
+                src: "https://cdn.usefathom.com/script.js",
+                "data-site": "IUIUDGEX",
+                defer: "defer",
+              },
+            },
+          ],
+        };
+      },
+    }),
   ],
 };
 
