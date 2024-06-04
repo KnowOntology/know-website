@@ -4,6 +4,9 @@ sidebar_label: Overview
 sidebar_position: 0
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # A Real-World Ontology for Gen AI
 
 **Know**–the _**K**nowledge **N**avigator **O**ntology for the **W**orld_–is
@@ -30,20 +33,88 @@ concepts in software design and engineering.
 When working with [RDF] serializations and/or [SPARQL] queries, the ontology's
 base URI and recommended prefix to use are the following:
 
+<Tabs>
+<TabItem value="turtle" label="Turtle">
+
 ```turtle
 @prefix know: <https://know.dev/> .
 ```
+
+</TabItem>
+<TabItem value="jsonld" label="JSON-LD">
+
+```json
+{
+  "@context": {
+    "know": "https://know.dev/"
+  },
+  ...
+}
+```
+
+</TabItem>
+<TabItem value="rdfxml" label="RDF/XML">
+
+```xml
+<?xml version="1.0"?>
+<rdf:RDF xmlns:know="https://know.dev/">
+  ...
+</rdf:RDF>
+```
+
+</TabItem>
+<TabItem value="sparql" label="SPARQL">
+
+```sparql
+PREFIX know: <https://know.dev/>
+```
+
+</TabItem>
+</Tabs>
 
 ## Linked Data Endpoint
 
 The ontology concepts can be dereferenced in [linked data] form on this
 website. If you have the [Raptor RDF] toolkit and utilities installed,
-obtain the full ontology contents in an RDF serialization as simply as:
+obtain machine-readable ontology concepts in RDF formats as simply as:
+
+<Tabs>
+<TabItem value="rapper" label="rapper">
 
 ```console
-$ rapper https://know.dev
+$ rapper -o turtle https://know.dev/Thing
 ```
 
+</TabItem>
+<TabItem value="rdfpipe" label="rdfpipe">
+
+```console
+$ rdfpipe -o turtle https://know.dev/Thing
+```
+
+</TabItem>
+<TabItem value="roqet" label="roqet">
+
+```console
+$ roqet -e 'SELECT * FROM <https://know.dev/Thing> WHERE { ?s ?p ?o . }'
+```
+
+</TabItem>
+<TabItem value="curl" label="curl">
+
+```console
+$ curl -H accept:text/turtle https://know.dev/Thing
+```
+
+</TabItem>
+<TabItem value="wget" label="wget">
+
+```console
+$ wget -O- -q --header=accept:text/turtle https://know.dev/Thing
+```
+
+</TabItem>
+</Tabs>
 
 [events]: /Event
 [groups]: /Group
