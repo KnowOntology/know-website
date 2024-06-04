@@ -2,7 +2,7 @@
 
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
-  about: ["index" /*"features", "bibliography", "glossary"*/],
+  about: ["index", "bibliography"/*, "features", "glossary"*/],
   classes: [
     {
       type: "category",

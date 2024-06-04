@@ -10,7 +10,7 @@ import tabBlocks from "docusaurus-remark-plugin-tab-blocks";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "KNOW",
+  title: "The Know Ontology",
   tagline: "An everyday, commonsense ontology",
   favicon: "assets/img/favicon.ico",
 
@@ -73,9 +73,9 @@ const config = {
     ({
       image: "assets/img/docusaurus-social-card.jpg", // TODO
       navbar: {
-        title: "KNOW",
+        title: "The Know Ontology",
         logo: {
-          alt: "KNOW Logo",
+          alt: "Know Ontology Logo",
           src: "assets/img/logo.jpeg",
         },
         items: [
