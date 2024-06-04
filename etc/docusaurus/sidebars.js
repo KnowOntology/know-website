@@ -130,7 +130,7 @@ const sidebars = {
   sdk: [
     {
       type: "category",
-      label: "Languages",
+      label: "Frameworks",
       collapsible: false,
       collapsed: false,
       link: {

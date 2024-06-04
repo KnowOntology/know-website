@@ -16,11 +16,9 @@ human universals: spacetime ([places], [events]) plus social ([people],
 [groups], [organizations]). The inclusion criteria for modeled concepts are
 pragmatic, beginning with universality and utility.
 
-<!--
 We also make available code-generated [software development kits] for the 12
 most popular programming languages, enabling the direct use of ontology
-concepts in software design.
--->
+concepts in software design and engineering.
 
 ![Top-level classes](https://raw.githubusercontent.com/KnowOntology/know-ontology/master/doc/classes.png)
 

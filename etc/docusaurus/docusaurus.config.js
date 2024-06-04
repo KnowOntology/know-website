@@ -103,12 +103,12 @@ const config = {
             label: "Downloads",
             position: "left",
           },
-          // {
-          //   type: "docSidebar",
-          //   sidebarId: "sdk",
-          //   label: "SDKs",
-          //   position: "left",
-          // },
+          {
+            type: "docSidebar",
+            sidebarId: "sdk",
+            label: "SDKs",
+            position: "left",
+          },
           {
             href: "https://github.com/KnowOntology",
             label: "GitHub",
