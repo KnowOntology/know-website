@@ -17,6 +17,7 @@
 | 📄 [`know.trig`]        | [TriG]           | ~20 KiB   | UTF-8         |
 | 📄 [`know.trix`]        | [TriX]           | ~127 KiB  | UTF-8         |
 | 📄 [`know.ttl`]         | [Turtle]         | ~20 KiB   | UTF-8         |
+| 📄 [`know.xsd`]         | [XML Schema]     | ~21 KiB   | UTF-8         |
 
 ## Release Notes
 
@@ -37,6 +38,7 @@
 [`know.trig`]: https://github.com/KnowOntology/know-ontology/releases/latest/download/know.trig
 [`know.trix`]: https://github.com/KnowOntology/know-ontology/releases/latest/download/know.trix
 [`know.ttl`]: https://github.com/KnowOntology/know-ontology/releases/latest/download/know.ttl
+[`know.xsd`]: https://github.com/KnowOntology/know-ontology/releases/latest/download/know.xsd
 
 [JSON-LD]: https://json-ld.org
 [JSON Schema]: https://www.learnjsonschema.com/2020-12/
@@ -47,3 +49,4 @@
 [TriG]: https://www.w3.org/TR/trig/
 [TriX]: https://en.wikipedia.org/wiki/TriX_(serialization_format)
 [Turtle]: https://www.w3.org/TR/turtle/
+[XML Schema]: https://www.w3.org/TR/xmlschema-0/
