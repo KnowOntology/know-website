@@ -2,10 +2,6 @@
 
 ## Latest Release
 
-👉 The latest release of the ontology is always available for download here:
-
-🔗 [github.com/KnowOntology/know-ontology/releases/latest](https://github.com/KnowOntology/know-ontology/releases/latest)
-
 | File Name               | File Format      | File Size | Text Encoding |
 | ------------------      | ---------------- | --------- | ------------- |
 | 📄 [`know.jsonld`]      | [JSON-LD]        | ~51 KiB   | UTF-8         |
@@ -19,6 +15,11 @@
 | 📄 [`know.ttl`]         | [Turtle]         | ~20 KiB   | UTF-8         |
 | 📄 [`know.xsd`]         | [XML Schema]     | ~21 KiB   | UTF-8         |
 
+👉 The latest release of the ontology is also always available for
+download here:
+
+🔗 [github.com/KnowOntology/know-ontology/releases/latest](https://github.com/KnowOntology/know-ontology/releases/latest)
+
 ## Release Notes
 
 🔗 [github.com/KnowOntology/know-ontology/blob/master/CHANGES.md](https://github.com/KnowOntology/know-ontology/blob/master/CHANGES.md)
@@ -29,16 +30,16 @@
 
 [![Creative Commons Zero v1.0 Universal](/assets/img/license.png)](https://github.com/KnowOntology/know-ontology/blob/master/LICENSE)
 
-[`know.jsonld`]: https://github.com/KnowOntology/know-ontology/releases/latest/download/know.jsonld
-[`know.nq`]: https://github.com/KnowOntology/know-ontology/releases/latest/download/know.nq
-[`know.nt`]: https://github.com/KnowOntology/know-ontology/releases/latest/download/know.nt
-[`know.rdf`]: https://github.com/KnowOntology/know-ontology/releases/latest/download/know.rdf
-[`know.rj`]: https://github.com/KnowOntology/know-ontology/releases/latest/download/know.rj
-[`know.schema.json`]: https://github.com/KnowOntology/know-ontology/releases/latest/download/know.schema.json
-[`know.trig`]: https://github.com/KnowOntology/know-ontology/releases/latest/download/know.trig
-[`know.trix`]: https://github.com/KnowOntology/know-ontology/releases/latest/download/know.trix
-[`know.ttl`]: https://github.com/KnowOntology/know-ontology/releases/latest/download/know.ttl
-[`know.xsd`]: https://github.com/KnowOntology/know-ontology/releases/latest/download/know.xsd
+[`know.jsonld`]: https://know.dev/know.jsonld
+[`know.nq`]: https://know.dev/know.nq
+[`know.nt`]: https://know.dev/know.nt
+[`know.rdf`]: https://know.dev/know.rdf
+[`know.rj`]: https://know.dev/know.rj
+[`know.schema.json`]: https://know.dev/know.schema.json
+[`know.trig`]: https://know.dev/know.trig
+[`know.trix`]: https://know.dev/know.trix
+[`know.ttl`]: https://know.dev/know.ttl
+[`know.xsd`]: https://know.dev/know.xsd
 
 [JSON-LD]: https://json-ld.org
 [JSON Schema]: https://www.learnjsonschema.com/2020-12/
