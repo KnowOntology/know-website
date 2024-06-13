@@ -4,10 +4,10 @@ sidebar_label: Overview
 sidebar_position: 0
 ---
 
+# A Real-World Ontology for Gen AI
+
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-
-# A Real-World Ontology for Gen AI
 
 **Know**–the _**K**nowledge **N**avigator **O**ntology for the **W**orld_–is
 an [ontology] designed to capture and represent everyday knowledge to
@@ -56,7 +56,7 @@ base URI and recommended prefix to use are the following:
 <TabItem value="rdfxml" label="RDF/XML">
 
 ```xml
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rdf:RDF xmlns:know="https://know.dev/">
   ...
 </rdf:RDF>
