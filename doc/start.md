@@ -1,4 +1,4 @@
-# start
+# ▶️ start
 
 :::note
 https://know.dev/start

@@ -1,4 +1,4 @@
-# phone
+# 📞 phone
 
 :::note
 https://know.dev/phone

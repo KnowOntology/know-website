@@ -1,4 +1,4 @@
-# honorific
+# 🎖️ honorific
 
 :::note
 https://know.dev/honorific

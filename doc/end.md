@@ -1,4 +1,4 @@
-# end
+# 🏁 end
 
 :::note
 https://know.dev/end

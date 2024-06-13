@@ -1,4 +1,4 @@
-# account
+# 👤 account
 
 :::note
 https://know.dev/account

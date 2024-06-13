@@ -1,4 +1,4 @@
-# name
+# 🎫 name
 
 :::note
 https://know.dev/name

@@ -1,4 +1,4 @@
-# note
+# 📝 note
 
 :::note
 https://know.dev/note

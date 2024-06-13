@@ -1,4 +1,4 @@
-# sex
+# ⚥ sex
 
 :::note
 https://know.dev/sex

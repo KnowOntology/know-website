@@ -1,4 +1,4 @@
-# email
+# ✉️ email
 
 :::note
 https://know.dev/email

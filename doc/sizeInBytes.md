@@ -1,4 +1,4 @@
-# sizeInBytes
+# 💾 sizeInBytes
 
 :::note
 https://know.dev/sizeInBytes

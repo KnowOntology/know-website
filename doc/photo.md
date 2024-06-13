@@ -1,4 +1,4 @@
-# photo
+# 📷 photo
 
 :::note
 https://know.dev/photo
