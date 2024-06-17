@@ -36,4 +36,61 @@ know:stepparent a owl:ObjectProperty,
 ```
 
 </TabItem>
+<TabItem value="jsonld" label="JSON-LD">
+
+```json
+{
+  "@context": {
+    "dcterms": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "know": "https://know.dev/",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "schema": "https://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@id": "know:stepparent",
+  "@type": [
+    "owl:ObjectProperty",
+    "owl:AsymmetricProperty",
+    "owl:IrreflexiveProperty"
+  ],
+  "rdfs:subPropertyOf": {
+    "@id": "know:relative"
+  },
+  "rdfs:domain": {
+    "@id": "know:Person"
+  },
+  "rdfs:range": {
+    "@id": "know:Person"
+  },
+  "rdfs:label": {
+    "@language": "en",
+    "@value": "Stepparent"
+  },
+  "know:glyph": "🧑"
+}
+```
+
+</TabItem>
+<TabItem value="rdfxml" label="RDF/XML">
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:know="https://know.dev/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <owl:ObjectProperty rdf:about="https://know.dev/stepparent">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#IrreflexiveProperty"/>
+    <rdfs:subPropertyOf rdf:resource="https://know.dev/relative"/>
+    <rdfs:domain rdf:resource="https://know.dev/Person"/>
+    <rdfs:range rdf:resource="https://know.dev/Person"/>
+    <rdfs:label xml:lang="en">Stepparent</rdfs:label>
+    <know:glyph>🧑</know:glyph>
+  </owl:ObjectProperty>
+</rdf:RDF>
+
+```
+
+</TabItem>
 </Tabs>
