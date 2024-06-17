@@ -11,8 +11,9 @@ https://know.dev/Link
 
 ## Properties
 
-| Property          | Label (en)     |
-| ----------------- | -------------- |
-| [`url`]           | URL            |
+| Property          | Label (en)     | Range                    |
+| ----------------- | -------------- | ------------------------ |
+| [`url`]           | URL            | `xsd:anyURI`             |
 
+[`Link`]: /Link
 [`url`]: /url

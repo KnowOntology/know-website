@@ -11,58 +11,62 @@ https://know.dev/Person
 
 ## Properties
 
-| Property          | Label (en)     |
-| ----------------- | -------------- |
-| [`account`]       | Account        |
-| [`age`]           | Age            |
-| [`alias`]         | Alias          |
-| [`ancestor`]      | Ancestor       |
-| [`aunt`]          | Aunt           |
-| [`birth`]         | Birth          |
-| [`brother`]       | Brother        |
-| [`child`]         | Child          |
-| [`colleague`]     | Colleague      |
-| [`cousin`]        | Cousin         |
-| [`daughter`]      | Daughter       |
-| [`death`]         | Death          |
-| [`descendant`]    | Descendant     |
-| [`email`]         | Email          |
-| [`father`]        | Father         |
-| [`grandchild`]    | Grandchild     |
-| [`granddaughter`] | Granddaughter  |
-| [`grandfather`]   | Grandfather    |
-| [`grandmother`]   | Grandmother    |
-| [`grandparent`]   | Grandparent    |
-| [`grandson`]      | Grandson       |
-| [`honorific`]     | Honorific      |
-| [`husband`]       | Husband        |
-| [`knows`]         | Knows          |
-| [`memberOf`]      | Member Of      |
-| [`mother`]        | Mother         |
-| [`nationality`]   | Nationality    |
-| [`nephew`]        | Nephew         |
-| [`nibling`]       | Nibling        |
-| [`niece`]         | Niece          |
-| [`parent`]        | Parent         |
-| [`partner`]       | Partner        |
-| [`phone`]         | Phone          |
-| [`pibling`]       | Pibling        |
-| [`relative`]      | Relative       |
-| [`sex`]           | Sex            |
-| [`sibling`]       | Sibling        |
-| [`sister`]        | Sister         |
-| [`son`]           | Son            |
-| [`speaks`]        | Speaks         |
-| [`spouse`]        | Spouse         |
-| [`stepchild`]     | Stepchild      |
-| [`stepdaughter`]  | Stepdaughter   |
-| [`stepfather`]    | Stepfather     |
-| [`stepmother`]    | Stepmother     |
-| [`stepparent`]    | Stepparent     |
-| [`stepson`]       | Stepson        |
-| [`uncle`]         | Uncle          |
-| [`wife`]          | Wife           |
+| Property          | Label (en)     | Range                    |
+| ----------------- | -------------- | ------------------------ |
+| [`account`]       | Account        | `xsd:anyURI`             |
+| [`age`]           | Age            | `xsd:nonNegativeInteger` |
+| [`alias`]         | Alias          | `xsd:string`             |
+| [`ancestor`]      | Ancestor       | [`Person`]               |
+| [`aunt`]          | Aunt           | [`Person`]               |
+| [`birth`]         | Birth          | [`Birth`]                |
+| [`brother`]       | Brother        | [`Person`]               |
+| [`child`]         | Child          | [`Person`]               |
+| [`colleague`]     | Colleague      | [`Person`]               |
+| [`cousin`]        | Cousin         | [`Person`]               |
+| [`daughter`]      | Daughter       | [`Person`]               |
+| [`death`]         | Death          | [`Death`]                |
+| [`descendant`]    | Descendant     | [`Person`]               |
+| [`email`]         | Email          | `xsd:string`             |
+| [`father`]        | Father         | [`Person`]               |
+| [`grandchild`]    | Grandchild     | [`Person`]               |
+| [`granddaughter`] | Granddaughter  | [`Person`]               |
+| [`grandfather`]   | Grandfather    | [`Person`]               |
+| [`grandmother`]   | Grandmother    | [`Person`]               |
+| [`grandparent`]   | Grandparent    | [`Person`]               |
+| [`grandson`]      | Grandson       | [`Person`]               |
+| [`honorific`]     | Honorific      | `xsd:string`             |
+| [`husband`]       | Husband        | [`Person`]               |
+| [`knows`]         | Knows          | [`Person`]               |
+| [`memberOf`]      | Member Of      | [`Group`]                |
+| [`mother`]        | Mother         | [`Person`]               |
+| [`nationality`]   | Nationality    | `xsd:string`             |
+| [`nephew`]        | Nephew         | [`Person`]               |
+| [`nibling`]       | Nibling        | [`Person`]               |
+| [`niece`]         | Niece          | [`Person`]               |
+| [`parent`]        | Parent         | [`Person`]               |
+| [`partner`]       | Partner        | [`Person`]               |
+| [`phone`]         | Phone          | `xsd:string`             |
+| [`pibling`]       | Pibling        | [`Person`]               |
+| [`relative`]      | Relative       | [`Person`]               |
+| [`sex`]           | Sex            | `xsd:string`             |
+| [`sibling`]       | Sibling        | [`Person`]               |
+| [`sister`]        | Sister         | [`Person`]               |
+| [`son`]           | Son            | [`Person`]               |
+| [`speaks`]        | Speaks         | `xsd:language`           |
+| [`spouse`]        | Spouse         | [`Person`]               |
+| [`stepchild`]     | Stepchild      | [`Person`]               |
+| [`stepdaughter`]  | Stepdaughter   | [`Person`]               |
+| [`stepfather`]    | Stepfather     | [`Person`]               |
+| [`stepmother`]    | Stepmother     | [`Person`]               |
+| [`stepparent`]    | Stepparent     | [`Person`]               |
+| [`stepson`]       | Stepson        | [`Person`]               |
+| [`uncle`]         | Uncle          | [`Person`]               |
+| [`wife`]          | Wife           | [`Person`]               |
 
+[`Birth`]: /Birth
+[`Death`]: /Death
+[`Group`]: /Group
+[`Person`]: /Person
 [`account`]: /account
 [`age`]: /age
 [`alias`]: /alias

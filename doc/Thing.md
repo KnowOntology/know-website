@@ -11,16 +11,18 @@ https://know.dev/Thing
 
 ## Properties
 
-| Property          | Label (en)     |
-| ----------------- | -------------- |
-| [`glyph`]         | Glyph          |
-| [`id`]            | Identifier     |
-| [`link`]          | Link           |
-| [`name`]          | Name           |
-| [`note`]          | Note           |
-| [`photo`]         | Photo          |
-| [`size`]          | Size           |
+| Property          | Label (en)     | Range                    |
+| ----------------- | -------------- | ------------------------ |
+| [`glyph`]         | Glyph          | `xsd:string`             |
+| [`id`]            | Identifier     | `xsd:string`             |
+| [`link`]          | Link           | [`Link`]                 |
+| [`name`]          | Name           | `xsd:string`             |
+| [`note`]          | Note           | `xsd:string`             |
+| [`photo`]         | Photo          | `xsd:anyURI`             |
+| [`size`]          | Size           | `xsd:string`             |
 
+[`Link`]: /Link
+[`Thing`]: /Thing
 [`glyph`]: /glyph
 [`id`]: /id
 [`link`]: /link

@@ -11,10 +11,12 @@ https://know.dev/Group
 
 ## Properties
 
-| Property          | Label (en)     |
-| ----------------- | -------------- |
-| [`logo`]          | Logo           |
-| [`member`]        | Member         |
+| Property          | Label (en)     | Range                    |
+| ----------------- | -------------- | ------------------------ |
+| [`logo`]          | Logo           | `xsd:anyURI`             |
+| [`member`]        | Member         | [`Person`]               |
 
+[`Group`]: /Group
+[`Person`]: /Person
 [`logo`]: /logo
 [`member`]: /member

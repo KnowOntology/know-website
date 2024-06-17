@@ -11,12 +11,14 @@ https://know.dev/Event
 
 ## Properties
 
-| Property          | Label (en)     |
-| ----------------- | -------------- |
-| [`end`]           | End            |
-| [`place`]         | Place          |
-| [`start`]         | Start          |
+| Property          | Label (en)     | Range                    |
+| ----------------- | -------------- | ------------------------ |
+| [`end`]           | End            | `xsd:dateTime`           |
+| [`place`]         | Place          | [`Place`]                |
+| [`start`]         | Start          | `xsd:dateTime`           |
 
+[`Event`]: /Event
+[`Place`]: /Place
 [`end`]: /end
 [`place`]: /place
 [`start`]: /start
