@@ -63,6 +63,42 @@ https://know.dev/Person
 | [`uncle`]         | Uncle          | [`Person`]               |
 | [`wife`]          | Wife           | [`Person`]               |
 
+## Specification
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+<TabItem value="turtle" label="Turtle">
+
+```turtle
+@prefix know: <https://know.dev/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+know:Person a owl:Class;
+  rdfs:label "Henkilö"@fi,
+    "Kişi"@tr,
+    "Person"@de,
+    "Person"@en,
+    "Person"@sv,
+    "Persona"@es,
+    "Persono"@eo,
+    "Pessoa"@pt,
+    "Особа"@uk,
+    "شخص"@ar;
+  rdfs:subClassOf know:Thing;
+  owl:equivalentClass schema:Person;
+  know:glyph "🧑" .
+
+```
+
+</TabItem>
+</Tabs>
+
 [`Birth`]: /Birth
 [`Death`]: /Death
 [`Group`]: /Group
