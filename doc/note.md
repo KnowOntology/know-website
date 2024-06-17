@@ -1,4 +1,8 @@
-# 📝 note
+---
+sidebar_label: 📝 Note
+---
+
+# 📝 Note (property)
 
 :::note
 https://know.dev/note

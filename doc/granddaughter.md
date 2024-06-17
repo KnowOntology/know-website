@@ -1,4 +1,8 @@
-# 👧 granddaughter
+---
+sidebar_label: 👧 Granddaughter
+---
+
+# 👧 Granddaughter (property)
 
 :::note
 https://know.dev/granddaughter

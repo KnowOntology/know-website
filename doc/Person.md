@@ -1,4 +1,8 @@
-# 🧑 Person
+---
+sidebar_label: 🧑 Person
+---
+
+# 🧑 Person (class)
 
 :::note
 https://know.dev/Person
@@ -9,6 +13,9 @@ https://know.dev/Person
 
 | Property          | Label (en)     |
 | ----------------- | -------------- |
+| [`account`]       | Account        |
+| [`age`]           | Age            |
+| [`alias`]         | Alias          |
 | [`ancestor`]      | Ancestor       |
 | [`aunt`]          | Aunt           |
 | [`birth`]         | Birth          |
@@ -19,6 +26,7 @@ https://know.dev/Person
 | [`daughter`]      | Daughter       |
 | [`death`]         | Death          |
 | [`descendant`]    | Descendant     |
+| [`email`]         | Email          |
 | [`father`]        | Father         |
 | [`grandchild`]    | Grandchild     |
 | [`granddaughter`] | Granddaughter  |
@@ -26,21 +34,25 @@ https://know.dev/Person
 | [`grandmother`]   | Grandmother    |
 | [`grandparent`]   | Grandparent    |
 | [`grandson`]      | Grandson       |
+| [`honorific`]     | Honorific      |
 | [`husband`]       | Husband        |
 | [`knows`]         | Knows          |
-| [`link`]          | Link           |
 | [`memberOf`]      | Member Of      |
 | [`mother`]        | Mother         |
+| [`nationality`]   | Nationality    |
 | [`nephew`]        | Nephew         |
 | [`nibling`]       | Nibling        |
 | [`niece`]         | Niece          |
 | [`parent`]        | Parent         |
 | [`partner`]       | Partner        |
+| [`phone`]         | Phone          |
 | [`pibling`]       | Pibling        |
 | [`relative`]      | Relative       |
+| [`sex`]           | Sex            |
 | [`sibling`]       | Sibling        |
 | [`sister`]        | Sister         |
 | [`son`]           | Son            |
+| [`speaks`]        | Speaks         |
 | [`spouse`]        | Spouse         |
 | [`stepchild`]     | Stepchild      |
 | [`stepdaughter`]  | Stepdaughter   |
@@ -51,16 +63,20 @@ https://know.dev/Person
 | [`uncle`]         | Uncle          |
 | [`wife`]          | Wife           |
 
+[`account`]: /account
+[`age`]: /age
+[`alias`]: /alias
 [`ancestor`]: /ancestor
 [`aunt`]: /aunt
-[`birth`]: #/birth
+[`birth`]: /birth
 [`brother`]: /brother
 [`child`]: /child
 [`colleague`]: /colleague
 [`cousin`]: /cousin
 [`daughter`]: /daughter
-[`death`]: #/death
+[`death`]: /death
 [`descendant`]: /descendant
+[`email`]: /email
 [`father`]: /father
 [`grandchild`]: /grandchild
 [`granddaughter`]: /granddaughter
@@ -68,21 +84,25 @@ https://know.dev/Person
 [`grandmother`]: /grandmother
 [`grandparent`]: /grandparent
 [`grandson`]: /grandson
+[`honorific`]: /honorific
 [`husband`]: /husband
 [`knows`]: /knows
-[`link`]: #/link
 [`memberOf`]: /memberOf
 [`mother`]: /mother
+[`nationality`]: /nationality
 [`nephew`]: /nephew
 [`nibling`]: /nibling
 [`niece`]: /niece
 [`parent`]: /parent
 [`partner`]: /partner
+[`phone`]: /phone
 [`pibling`]: /pibling
 [`relative`]: /relative
+[`sex`]: /sex
 [`sibling`]: /sibling
 [`sister`]: /sister
 [`son`]: /son
+[`speaks`]: /speaks
 [`spouse`]: /spouse
 [`stepchild`]: /stepchild
 [`stepdaughter`]: /stepdaughter
