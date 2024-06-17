@@ -12,7 +12,7 @@ https://know.dev/File
 ## Properties
 
 | Property          | Label (en)     | Range                    |
-| ----------------- | -------------- | ------------------------ |
+| :---------------- | :------------- | :----------------------- |
 | [`sizeInBytes`]   | Size in Bytes  | `xsd:nonNegativeInteger` |
 
 [`File`]: /File

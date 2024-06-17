@@ -12,7 +12,7 @@ https://know.dev/Person
 ## Properties
 
 | Property          | Label (en)     | Range                    |
-| ----------------- | -------------- | ------------------------ |
+| :---------------- | :------------- | :----------------------- |
 | [`account`]       | Account        | `xsd:anyURI`             |
 | [`age`]           | Age            | `xsd:nonNegativeInteger` |
 | [`alias`]         | Alias          | `xsd:string`             |

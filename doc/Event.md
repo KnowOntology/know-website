@@ -12,7 +12,7 @@ https://know.dev/Event
 ## Properties
 
 | Property          | Label (en)     | Range                    |
-| ----------------- | -------------- | ------------------------ |
+| :---------------- | :------------- | :----------------------- |
 | [`end`]           | End            | `xsd:dateTime`           |
 | [`place`]         | Place          | [`Place`]                |
 | [`start`]         | Start          | `xsd:dateTime`           |

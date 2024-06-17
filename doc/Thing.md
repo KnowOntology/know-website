@@ -12,7 +12,7 @@ https://know.dev/Thing
 ## Properties
 
 | Property          | Label (en)     | Range                    |
-| ----------------- | -------------- | ------------------------ |
+| :---------------- | :------------- | :----------------------- |
 | [`glyph`]         | Glyph          | `xsd:string`             |
 | [`id`]            | Identifier     | `xsd:string`             |
 | [`link`]          | Link           | [`Link`]                 |

@@ -12,7 +12,7 @@ https://know.dev/Group
 ## Properties
 
 | Property          | Label (en)     | Range                    |
-| ----------------- | -------------- | ------------------------ |
+| :---------------- | :------------- | :----------------------- |
 | [`logo`]          | Logo           | `xsd:anyURI`             |
 | [`member`]        | Member         | [`Person`]               |
 
